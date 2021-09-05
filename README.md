@@ -12,8 +12,6 @@ Android App built for checking signal strength of your mobile sim card
   <img title="Splash Screen - Dark" src="images/splash-screen.png" width="300" height="600" />
   <img title="Home Screen - Dark" src="images/home-screen.png" width="300" height="600"/>
   <img title="Checking Signal Strength - Dark" src="images/working.png" width="300" height="600"/>
-</p>
-<p float="left">
   <img title="Previous Results - Dark" src="images/previous-results-screen.png" width="300" height="600"/>&nbsp;
   <img title="Home Screen - Light" src="images/home-screen-light.png" width="300" height="600"/>&nbsp;
   <img title="Checking Signal Strength - Ligh" src="images/working-light.png" width="300" height="600"/>
