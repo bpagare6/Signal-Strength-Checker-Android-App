@@ -2,10 +2,7 @@
 
 Android App built for checking signal strength of your mobile sim card
 
-<a href="apk/v1.apk" download>
-  <img src="images/button.png" alt="Download APK">
-</a>
-<br/><br/>
+[![Download APK](images/button.png)](https://github.com/bpagare6/Signal-Strength-Checker-Android-App/raw/main/apk/v1.apk)
 
 <div align="center">
 <p float="left">
