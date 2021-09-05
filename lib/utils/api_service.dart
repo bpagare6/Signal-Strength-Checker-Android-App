@@ -5,7 +5,7 @@ import 'package:SignalStrengthChecker/utils/location_service.dart';
 import 'package:SignalStrengthChecker/utils/siminfo.dart';
 
 class APIService {
-  static String serverUrl = "http://192.168.2.101:8080";
+  static String serverUrl = "https://signal-strength-dashboard.herokuapp.com";
 
   saveToDatabase(String operator_name, String latitude, String longitude, String address) async {
     var url = Uri.parse(serverUrl + "/add-signal-strength");
